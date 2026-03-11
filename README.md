@@ -1,5 +1,4 @@
-# EducationPage
-
+# Educare
 <ul>
   <li>Live Preview: https://educationlp.netlify.app </li>
 
